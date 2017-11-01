@@ -1,5 +1,7 @@
 # Uso de DispatchQueue
 
+Source: https://www.raywenderlich.com/148513/grand-central-dispatch-tutorial-swift-3-part-1
+
 # Asincrona: Cuando la carga se hace en segundo plano y no detiene ningun proceso
 
 ```
